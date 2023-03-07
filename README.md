@@ -19,3 +19,21 @@ The consist of three control buttons [Save], [Change] and [Reset] at the bottom 
 
 3. Click [Reset] to reset the form as per the step-2.
 
+<h1>About JsonPowerDB:</h1>
+JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
+
+<h2>Benefits of using JsonPowerDB</h2>
+
+1. Simplest way to retrieve data in a JSON format.
+2. Schema-free, Simple to use, Nimble and In-Memory database.
+3. It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
+4. It is low level (raw) form of data and is also human readable.
+5. It helps developers in faster coding, in-turn reduces development cost.
+
+<h1>Screenshots:</h1>
+<br>
+![Json2](https://user-images.githubusercontent.com/85962716/223463791-42db2e78-25ec-485a-94df-414bc0c91eac.png)
+![Json1](https://user-images.githubusercontent.com/85962716/223463872-67b0a3d4-f347-41f5-bf05-9587140dffcd.png)
+
+
+
