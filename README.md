@@ -32,8 +32,8 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 <h1>Screenshots:</h1>
 <br>
-![Json2](https://user-images.githubusercontent.com/85962716/223463791-42db2e78-25ec-485a-94df-414bc0c91eac.png)
-![Json1](https://user-images.githubusercontent.com/85962716/223463872-67b0a3d4-f347-41f5-bf05-9587140dffcd.png)
+<img src = "https://user-images.githubusercontent.com/85962716/223463791-42db2e78-25ec-485a-94df-414bc0c91eac.png" />
+<img src = "https://user-images.githubusercontent.com/85962716/223463872-67b0a3d4-f347-41f5-bf05-9587140dffcd.png"/>
 
 
 
